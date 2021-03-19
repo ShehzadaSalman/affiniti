@@ -111,7 +111,7 @@ function App() {
           </h2>
           <h2 className="trouble-heading">
             Lost or have trouble?
-            <span>Get Help <img src="/images/frontarrow-blue.svg" className="ml-1 mr-1" /></span>
+            <span>Get Help <img src="/images/frontarrow-blue.svg"  alt = "img" className="ml-1 mr-1" /></span>
           </h2>
 
         </div>

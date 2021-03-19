@@ -3,10 +3,10 @@ const Quotation = () => {
         <div className="outer-wrapper mt-5">
             <div className="wrapper p-4">
                 <div className="semicolon-wrapper">
-                    <img src="/images/semicolon.svg" />
+                    <img alt="img" src="/images/semicolon.svg" />
 
                 </div>
-                <img className="quotation-shadow-img" src="/images/shadow-quotation.svg" />
+                <img className="quotation-shadow-img" alt="img" src="/images/shadow-quotation.svg" />
                 <p className="mt-3 mb-3"> Streamlined access, data-driven investments, liquidity, powered by the blockchain — all of these is about Afiniti
                 </p>
                 <h4>Sarfraz Shaukat</h4>

@@ -1,8 +1,8 @@
 const NavElement = ({ title, finished }) => (
     <> <div className="nav-element mb-3" style={{ display: 'flex' }}>
         {finished
-            ? <><img className="" src="/images/completedsection.svg"></img><h2 style={{ color: '#fff' }} className="ml-3" >{title}</h2> </>
-            : <><img className="" src="/images/uncompletedsection.svg"></img><h2 style={{ color: '#fff', opacity: 0.5 }} className="ml-3" >{title}</h2> </>
+            ? <><img alt="img" className="" src="/images/completedsection.svg"></img><h2 style={{ color: '#fff' }} className="ml-3" >{title}</h2> </>
+            : <><img alt="img" className="" src="/images/uncompletedsection.svg"></img><h2 style={{ color: '#fff', opacity: 0.5 }} className="ml-3" >{title}</h2> </>
         }
 
 
